@@ -1,4 +1,7 @@
-Boston House Price Prediction
+                                                            Boston House Price Prediction
+
+
+
 This project aims to predict housing prices in Boston using machine learning techniques. It utilizes the Boston Housing Dataset, which includes various features such as crime rate, number of rooms, property tax, and more.
 
 📌 Project Overview
