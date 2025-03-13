@@ -5,10 +5,15 @@
 This project aims to predict housing prices in Boston using machine learning techniques. It utilizes the Boston Housing Dataset, which includes various features such as crime rate, number of rooms, property tax, and more.
 
 📌 Project Overview
+
 Dataset: The dataset consists of 506 samples with 13 features describing different aspects of housing in Boston.
+
 Goal: Build a regression model to predict the median house price.
+
 Tech Stack: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn.
+
 📊 Dataset Description
+
 The dataset includes the following features:
 
 Feature	Description:
