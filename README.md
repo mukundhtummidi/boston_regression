@@ -11,14 +11,22 @@ Tech Stack: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn.
 📊 Dataset Description
 The dataset includes the following features:
 
-Feature	Description
+Feature	Description:
+
 CRIM:	Per capita crime rate by town
+
 ZN:	Proportion of residential land zoned for large lots
+
 INDUS:	Proportion of non-retail business acres per town
+
 CHAS:	Charles River dummy variable (1 if tract bounds river, 0 otherwise)
+
 NOX:	Nitrogen oxide concentration (parts per 10 million)
+
 RM:	Average number of rooms per dwelling
+
 AGE:	Proportion of owner-occupied units built before 1940
+
 DIS:	Weighted distance to employment centers
 RAD:	Accessibility to radial highways
 TAX:	Property tax rate per $10,000
